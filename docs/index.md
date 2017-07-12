@@ -15,10 +15,10 @@ okay how about an image
 
 ![](image.png)
 
-###[project-1/](here is a project)
+### [Here is a project](project-1/)
 
 I did this project
 
-###[project-2/](here is a project)
+### [Here is another project](project-2/)
 
 I did this project as well
