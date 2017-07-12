@@ -5,6 +5,14 @@
   padding-bottom: 60px;
   padding-top: 60px;
   font-family: Georgia, sans-serif;
+  position: relative;
+}
+
+#topnav {
+  display: absolute;
+  top: 10px;
+  left: 10px;
+  text-align: right;
 }
 
 h1 {

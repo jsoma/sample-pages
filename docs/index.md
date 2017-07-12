@@ -4,7 +4,7 @@ layout: default
 
 ---
 
-# Hi, I'm YOUR_NAME_HERE
+# Hi, I'm YOUR NAME HERE
 
 This is my site of projects for the [Lede Program](http://ledeprogram.com)
 
