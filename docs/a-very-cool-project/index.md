@@ -1,7 +1,6 @@
 ---
 
 title: A Very Cool Project
-permalink: /a-cool-project
 
 ---
 
