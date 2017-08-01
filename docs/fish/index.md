@@ -1,3 +1,10 @@
+---
+
+title: A Very Cool Project
+layout: project
+
+---
+
 # This is a project about fish!!!
 
 ## This means a subheader!!
